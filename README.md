@@ -6,7 +6,7 @@
 <body>
 
 <h1>I am a Devops Engineer</h1>
-<p>I am learning Terraform and Snowflake</p>
+<p>I am working as a DevOps Engineer</p>
 
 </body>
 </html>
